@@ -1,0 +1,10 @@
+.container-fluid {
+    width: 100%;
+    background-color: aqua;
+}
+
+.login-fluid {
+    display: flex;
+    justify-content: flex-end;
+
+}
